@@ -6,7 +6,9 @@ import VideoList from './components/video_list';
 import SearchBar from './components/search_bar';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyDPv4ZEnBZygx9Ggp5TZQTzdIca9jDdiGs';
+const API_KEY = '
+AIzaSyAjEfN_77tBPy_r1wUuZ6zWNu5HCv0dGuY
+';
 
 
 export default class extends Comp {
